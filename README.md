@@ -2,7 +2,7 @@
 
 ## :copyright: Autor
 
-- :camera: <img src="https://avatars2.githubusercontent.com/u/17136255?s=460&u=d3c161562a0b0cd9ce9b8693a4039b615a37a984&v=4" width="160px">
+- :camera: <img src="https://avatars.githubusercontent.com/u/66543823?s=400&u=a56fd9aede592099c72f7bee7fa85f70b4f926b2&v=4">
 
 - :man: **Felix Omar Dominguez Inestroza**
 - :e-mail: felixomardominguez847@gamil.com
