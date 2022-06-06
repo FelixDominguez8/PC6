@@ -1,4 +1,4 @@
-# Ejemplo de static_cast vs dynamic_cast
+# Punto de Control 6
 
 ## :copyright: Autor
 
