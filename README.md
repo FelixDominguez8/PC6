@@ -10,83 +10,64 @@
 
 ---
 
-## :black_circle: Principal.cpp
+## :black_circle: Funciones Virtuales
 
-![](images/Principal.cpp.png)
-
----
-
-## :triangular_ruler: Diagrama
-
-![](images/Diagrama.png)
+![](images/Funciones Virtuales (codigo).png)
+![](images/Funciones Virtuales (salida).png)
 
 ---
 
-## :white_large_square: SistemaOperativo.hpp
+## :black_circle: Sobrecarga de Operadores 1,2
 
-![](images/SistemaOperativo.hpp.png)
-
-## :white_medium_square: SistemaOperativo.cpp
-
-![](images/SistemaOperativo.cpp.png)
+![](images/Sobrecarga de Operadores 1,2 (codigo).png)
+![](images/Sobrecarga de Operadores 1,2 (salida).png)
 
 ---
 
-## :large_blue_diamond: Linux.hpp
+## :black_circle: Sobrecarga de Operadores 2,2
 
-![](images/Linux.hpp.png)
-
-## :small_blue_diamond: Linux.cpp
-
-![](images/Linux.cpp.png)
+![](images/Sobrecarga de Operadores 2,2 (codigo).png)
+![](images/Sobrecarga de Operadores 2,2 (salida).png)
 
 ---
 
-## :large_orange_diamond: Mac.hpp
+## :black_circle: Typeid
 
-![](images/Mac.hpp.png)
-
-## :small_orange_diamond: Mac.cpp
-
-![](images/Mac.cpp.png)
+![](images/Typeid (codigo).png)
+![](images/Typeid (salida).png)
 
 ---
 
-##  :black_large_square:  Windows.hpp
+## :black_circle: static_cast vs dynamic_cast 1,3
 
-![](images/Windows.hpp.png)
-
-## :black_medium_small_square: Windows.cpp
-
-![](images/Windows.cpp.png)
+![](images/static_cast vs dynamic_cast 1,3 (codigo).png)
+![](images/static_cast vs dynamic_cast 1,3 (salida).png)
 
 ---
 
-## :white_circle: Makefile
+## :black_circle: static_cast vs dynamic_cast 2,3
 
-![](images/Makefile.png)
-
-## :white_circle: Build.bash.bat
-
-![](images/Build.bash.bat.png)
-
-## :red_circle: Salida - dynamic_cast
-
-![](images/Salida-dynamic_cast.png)
-
-## :large_blue_circle: Salida - static_cast
-
-![](images/Salida-static_cast.png)
+![](images/static_cast vs dynamic_cast 2,3 (codigo).png)
+![](images/static_cast vs dynamic_cast 2,3 (salida).png)
 
 ---
+
+## :black_circle: static_cast vs dynamic_cast 3,3
+
+![](images/static_cast vs dynamic_cast 3,3 (codigo).png)
+![](images/static_cast vs dynamic_cast 3,3 (salida).png)
+
+---
+
+## :black_circle: static_cast-type-
+
+![](images/static_cast-type-(variable) (codigo).png)
+![](images/static_cast-type-(variable) .png)
+
+---
+
 
 ## :computer: Código
 
-- :blue_book: [Ejemplo-de-static_cast-vs-dynamic_cast](https://github.com/nelbren/Ejemplo-de-static_cast-vs-dynamic_cast)
+- :blue_book: [Codigo](https://github.com/StickyFingers84/PC6)
 
----
-#### Herramientas:
-- :package: [Visual Studio Code](https://code.visualstudio.com/)
-- :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
-- :notebook: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- :smile: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)# PC6
