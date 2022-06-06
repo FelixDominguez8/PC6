@@ -4,34 +4,9 @@
 
 - :camera: <img src="https://avatars2.githubusercontent.com/u/17136255?s=460&u=d3c161562a0b0cd9ce9b8693a4039b615a37a984&v=4" width="160px">
 
-- :older_man: **Martin Nelbren Cuellar**
-- :e-mail: nelbren@nelbren.com
-- :link: [github.com/nelbren](https://github.com/nelbren)
-- :calendar: 
-  - 2020-08-27 23:00 CST
-  - 2021-02-24 13:09 CST
-
----
-
-## :dart: Objetivos
-
-![](images/c++.png)
-
-Un programa de **C++** diseñado para demostrar:
-
-1. :nut_and_bolt: La diferencia en el uso de:
-   - **static_cast** (comentar linea de `#define dynamic`)
-   - **dynamic_cast** (habilitado por omisión)
-2. :books: La utilización de: 
-    - `.hpp` (declaración)
-    - `.cpp` (implementación)
-3. :mag: La optimización de:
-   - `#include` (mínimo requerido)
-   - `using namespace std` (solo cuando se necesita)
-4. :open_file_folder:La organización de:
-   - Código (**Visual Studio Code** y Repositorio en **Github**)
-   - Imágenes (Extensión **Polacode** de **VSC**)
-   - Formato, Diagrama y Emojis (**Markdown** en **VSC**)
+- :man: **Felix Omar Dominguez Inestroza**
+- :e-mail: felixomardominguez847@gamil.com
+- :link: [github.com/StickyFingers84](https://github.com/StickyFingers84)
 
 ---
 
