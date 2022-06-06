@@ -1,3 +1,0 @@
-Sistema Operativo: npro-vps-02
-   npro-vps-02 => debian - Paquetes: 200
-Sistema Operativo: MBP01-755
