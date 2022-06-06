@@ -14,8 +14,6 @@
 
 ![](images/Funciones Virtuales (codigo).png)
 
-![](images/Funciones Virtuales (salida).png)
-
 ---
 
 ## :black_circle: Sobrecarga de Operadores 1,2
