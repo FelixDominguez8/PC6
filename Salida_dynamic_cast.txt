@@ -1,0 +1,6 @@
+Sistema Operativo: npro-vps-02
+   npro-vps-02 => debian - Paquetes: 200
+Sistema Operativo: MBP01-755
+Sistema Operativo: DESKTOP-I9BGAN1
+Sistema Operativo: npro-vps-03
+   npro-vps-03 => debian - Paquetes: 201
