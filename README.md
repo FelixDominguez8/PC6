@@ -12,65 +12,65 @@
 
 ## :black_circle: Funciones Virtuales
 
-![](images/Funciones Virtuales (codigo).png)
+![](images/FuncionesVirtuales(codigo).png)
+
+![](images/FuncionesVirtuales(salida).png)
 
 ---
 
 ## :black_circle: Sobrecarga de Operadores 1,2
 
-![](images/Sobrecarga de Operadores 1,2 (codigo).png)
+![](images/SobrecargadeOperadores1,2(codigo).png)
 
-![](images/Sobrecarga de Operadores 1,2 (salida).png)
+![](images/SobrecargadeOperadores1,2(salida).png)
 
 ---
 
 ## :black_circle: Sobrecarga de Operadores 2,2
 
-![](images/Sobrecarga de Operadores 2,2 (codigo).png)
+![](images/SobrecargadeOperadores2,2(codigo).png)
 
-![](images/Sobrecarga de Operadores 2,2 (salida).png)
+![](images/SobrecargadeOperadores2,2(salida).png)
 
 ---
 
 ## :black_circle: Typeid
 
+![](images/Typeid(codigo).png)
+
 ![](images/Typeid(salida).png)
-
-![](images/Typeid (codigo).png)
-
-![](images/Typeid (salida).png)
 
 ---
 
 ## :black_circle: static_cast vs dynamic_cast 1,3
 
-![](images/static_cast vs dynamic_cast 1,3 (codigo).png)
+![](images/static_castvsdynamic_cast1,3(codigo).png)
 
-![](images/static_cast vs dynamic_cast 1,3 (salida).png)
+![](images/static_castvsdynamic_cast1,3(salida).png)
 
 ---
 
 ## :black_circle: static_cast vs dynamic_cast 2,3
 
-![](images/static_cast vs dynamic_cast 2,3 (codigo).png)
+![](images/static_castvsdynamic_cast2,3(codigo).png)
 
-![](images/static_cast vs dynamic_cast 2,3 (salida).png)
+![](images/static_castvsdynamic_cast2,3(salida).png)
 
 ---
 
 ## :black_circle: static_cast vs dynamic_cast 3,3
 
-![](images/static_cast vs dynamic_cast 3,3 (codigo).png)
+![](images/static_castvsdynamic_cast3,3(codigo).png)
 
-![](images/static_cast vs dynamic_cast 3,3 (salida).png)
+![](images/static_castvsdynamic_cast3,3(salida).png)
 
 ---
 
 ## :black_circle: static_cast-type-
 
-![](images/static_cast-type-(variable) (codigo).png)
+![](images/static_cast-type-(variable)(codigo).png)
 
-![](images/static_cast-type-(variable) .png)
+![](images/static_cast-type-(variable).png)
 
 ---
 
