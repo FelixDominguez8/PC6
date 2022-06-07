@@ -34,6 +34,8 @@
 
 ## :black_circle: Typeid
 
+![](images/Typeid(salida).png)
+
 ![](images/Typeid (codigo).png)
 
 ![](images/Typeid (salida).png)
